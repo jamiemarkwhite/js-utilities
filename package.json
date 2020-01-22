@@ -1,0 +1,19 @@
+{
+  "name": "js-utilities",
+  "version": "1.0.0",
+  "description": "Misc Javascript Utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamiemarkwhite/js-utilities.git"
+  },
+  "author": "Jamie White <hello@jamie-white.com> (https://jamie-white.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamiemarkwhite/js-utilities/issues"
+  },
+  "homepage": "https://github.com/jamiemarkwhite/js-utilities#readme"
+}
